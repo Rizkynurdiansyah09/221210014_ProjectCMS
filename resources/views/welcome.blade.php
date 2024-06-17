@@ -981,7 +981,7 @@
                             <div class="profile bg-gradient-primary-to-secondary">
                                 <!-- TIP: For best results,  a photo with a transparent background like the demo example below-->
                                 <!-- Watch a tutorial on how to do this on YouTube (link)-->
-                                <img class="profile-img" src="{{ asset('assets/assets/fotoformal.jpg') }}" alt="..." />
+                                <img class="profile-img" src="{{ asset('assets/assets/fotoformal.jpg') }}" alt="Image" height="900px" width="450px" alight="top"/>
                                 <div class="dots-1">
                                     <!-- SVG Dots-->
                                     <svg version="1.1" xmlns="http://www.w3.org/2000/svg"
